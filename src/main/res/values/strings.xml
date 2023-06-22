@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string-array name="cities">
+
+        <item>Sofia</item>
+
+        <item>Bucharest</item>
+
+        <item>Budapest</item>
+
+        <item>Athens</item>
+
+        <item>Rome</item>
+
+        <item>Vienna</item>
+
+        <item>Berlin</item>
+
+        <item>Paris</item>
+
+        <item>Belgrade</item>
+
+        <item>Turin</item>
+
+        <item>Munich</item>
+
+        <item>Nancy</item>
+
+        <item>Heraclio</item>
+
+        <item>Salzburg</item>
+
+        <item>Cluj-Napoca</item>
+
+    </string-array>
+
+</resources>
